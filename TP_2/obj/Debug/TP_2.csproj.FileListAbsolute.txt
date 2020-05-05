@@ -1,0 +1,25 @@
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\bin\Debug\TP_2.exe.config
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\bin\Debug\TP_2.exe
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\bin\Debug\TP_2.pdb
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.Consutlation.resources
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.Etudiant.resources
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.Form1.resources
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.Notes.resources
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.Properties.Resources.resources
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.csproj.GenerateResource.Cache
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.exe
+C:\Users\Aziz\documents\visual studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.pdb
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\bin\Debug\TP_2.exe.config
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\bin\Debug\TP_2.exe
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\bin\Debug\TP_2.pdb
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.csprojAssemblyReference.cache
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.Consutlation.resources
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.Etudiant.resources
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.Form1.resources
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.Notes.resources
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.Properties.Resources.resources
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.csproj.GenerateResource.cache
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.exe
+C:\Users\Aziz\source\repos\TP_2_AZIZ_HISSI_TDI201\TP_2\obj\Debug\TP_2.pdb
